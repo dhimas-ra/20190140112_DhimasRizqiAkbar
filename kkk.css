@@ -1,0 +1,28 @@
+
+@media only screen and (max-width: 768px) {
+    .Kelas {
+      display: block;
+    }
+}
+  
+   
+  
+    
+  
+  /*@media only screen and (max-width: 576px) {
+    .skills {
+      display: block;
+    }
+  
+   
+  
+    .skills .column {
+      max-width: 100%;
+    }
+  
+   
+  
+    footer {
+      text-align: center;
+    }
+  }
